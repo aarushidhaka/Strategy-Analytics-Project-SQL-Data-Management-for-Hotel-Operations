@@ -75,5 +75,5 @@ Developed as part of the *Data Management* module at Warwick Business School, th
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<yourusername>/hotel-sql-data-management.git
+   git clone https://github.com/aarushidhaka/Strategy-Analytics-Project-SQL-Data-Management-for-Hotel-Operations.git
    cd hotel-sql-data-management
