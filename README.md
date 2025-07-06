@@ -6,14 +6,6 @@ Developed as part of the *Data Management* module at Warwick Business School, th
 
 ---
 
-## 📂 Repository Contents
-
-| File                                 | Description                                                                                     |
-|--------------------------------------|-------------------------------------------------------------------------------------------------|
-| `DM_Group_5.pdf`                     | Full project report including database design, SQL implementation, and business analysis.       |
-
----
-
 ## 📝 Project Overview
 
 - **Business Context**: Safe Space Hotels operates multiple properties across the UK and requires an integrated database to monitor:
@@ -54,21 +46,6 @@ Developed as part of the *Data Management* module at Warwick Business School, th
   - ER diagrams and logical schema design.  
   - SQL schema creation queries and sample data generation process.  
   - Analysis of branch revenue, employee turnover, and customer satisfaction.  
-
----
-
-### `WhatsApp Video 2025-03-19 at.mp4`
-- Presentation explaining:
-  - Project goals and database structure.  
-  - Key SQL queries for business insights.  
-  - Actionable recommendations for Safe Space Hotels.  
-
----
-
-### `hotel_db.sqlite` (if included)
-- SQLite database file containing:
-  - Tables: SITE, HOTEL, ROOM, CUSTOMER, BOOKING, EMPLOYEE, CONTRACT, PAYMENT, REVIEW, HOTEL_FACILITY.  
-  - Populated synthetic data for querying and reporting.  
 
 ---
 
